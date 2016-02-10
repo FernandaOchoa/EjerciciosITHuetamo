@@ -1,0 +1,32 @@
+/*
+Ejercicio 1
+* Escribir una aplicacion que visualice en el monitor los siguientes mensajes:
+* Bienvenido al mundo de Java.
+* Podras dar solucion a muchos problemas.
+Ejercicio 2
+* ¿Que resultados se obtienen al realizar las operaciones siguientes? 
+* Si hay errores en la compilacion corrijalos, y de una explicacion de porque sucede.
+* int a=10, b=3, c=1,d,e;
+* float x,y;
+* x= a/b;
+* c=a<b&&c;
+* d=a+b++;
+* e=++a -b;
+* y=(float)a/b;
+Ejercicio 3
+* Escriba las sentencias para evaluar el siguiente polinomio para valores de
+* a=5,b=-1.7, c=2 x=10.5
+* ax^3+bx^2-cx+3
+Ejercicio 4
+*Escriba el valor ASCII de la 'q' y de la 'Q' sin consultar la tabla
+Ejercicio 5
+* Decida que tipo de datos necesita para escribir un programa que calcule la suma 
+* y la media de 4 numeros de tipo int
+Ejercicio 6
+* Escriba el codigo necesario para evaluar la expresion:
+* (b^2-4ac)/2a
+* valores a=1, b=5, c=2
+
+
+
+
